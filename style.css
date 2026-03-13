@@ -1,0 +1,28 @@
+*{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+section {
+    width: 90%;            
+    max-width: 800px;
+    margin: 2rem 0;
+    text-align: center;   
+}
+.banner-section img,
+.teaser-section img {
+    width: 100%;
+    height: auto;
+}
+
+section {
+    outline: 1px dashed black;
+}
