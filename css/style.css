@@ -6,6 +6,14 @@
     box-sizing: border-box;
 }
 
+.pergunta {
+    color: #5a0075;
+}
+
+.resposta {
+    color: #c24d9d;
+}
+
  .intro-section{
     background-color:#EEC2FF;
     border: 20px solid #EEC2FF;
